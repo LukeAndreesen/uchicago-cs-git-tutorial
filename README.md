@@ -1,2 +1,2 @@
 Luke Andreesen landreesen
-UChicago CS Git Tutorial
+UChicago CS Git Tutorial 
